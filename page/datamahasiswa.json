@@ -1,0 +1,434 @@
+[
+  {
+    "no": 1,
+    "nama": "Aditya Oktavian",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Yogyakarta",
+    "latitude": -7.8031511,
+    "longitude": 110.2943988,
+    "fontawesome5icon": "male"
+  },
+  {
+    "no": 2,
+    "nama": "Almeyda Legina",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Depok",
+    "latitude": -7.4786899,
+    "longitude": 110.9359227,
+    "fontawesome5icon": "snowman"
+  },
+  {
+    "no": 3,
+    "nama": "Amali Fitra Insani",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Purbalingga",
+    "latitude": -7.4988622,
+    "longitude": 110.1142731,
+    "fontawesome5icon": "seedling"
+  },
+  {
+    "no": 4,
+    "nama": "Amalia Arifah Puji Sopyan",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Tegal",
+    "latitude": -7.2436471,
+    "longitude": 110.6890805,
+    "fontawesome5icon": "cat"
+  },
+  {
+    "no": 5,
+    "nama": "Amalia Nur Izzati",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Banjarnegara",
+    "latitude": -7.0878922,
+    "longitude": 110.8882122,
+    "fontawesome5icon": "cloud-sun-rain"
+  },
+  {
+    "no": 6,
+    "nama": "Anggita Cahyaningtyas",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Cilacap",
+    "latitude": -7.0211918,
+    "longitude": 110.0093402,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 7,
+    "nama": "Athaya Hasna Puspita",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Yogyakarta",
+    "latitude": -7.6335431,
+    "longitude": 110.2804652,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 8,
+    "nama": "Aulia' Putri Sabita",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Mojokerto",
+    "latitude": -7.8696548,
+    "longitude": 110.3376831,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 9,
+    "nama": "Baginda Alfito",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Pekanbaru",
+    "latitude": -7.9909171,
+    "longitude": 110.355357,
+    "fontawesome5icon": "the-red-yeti"
+  },
+  {
+    "no": 10,
+    "nama": "Birgitta Ervina Nadialista",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Cikarang",
+    "latitude": -7.9717138,
+    "longitude": 110.9465436,
+    "fontawesome5icon": "venus"
+  },
+  {
+    "no": 11,
+    "nama": "Dwika Ajeng Oktaviani",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Sukabumi",
+    "latitude": -7.0410492,
+    "longitude": 110.4460591,
+    "fontawesome5icon": "moon"
+  },
+  {
+    "no": 12,
+    "nama": "Elivia Safa Putri Hapsa",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Boyolali",
+    "latitude": -7.3670868,
+    "longitude": 110.1746959,
+    "fontawesome5icon": "sun"
+  },
+  {
+    "no": 13,
+    "nama": "Erlin Dwi Prabandari",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kabupaten Wonogiri",
+    "latitude": -7.7647291,
+    "longitude": 110.4167911,
+    "fontawesome5icon": "wheelchair"
+  },
+  {
+    "no": 14,
+    "nama": "Fakhri Qairawan",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Tegal",
+    "latitude": -7.6954988,
+    "longitude": 110.6083387,
+    "fontawesome5icon": "cross"
+  },
+  {
+    "no": 15,
+    "nama": "Fakhri Raihan",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Sleman",
+    "latitude": -7.8125955,
+    "longitude": 110.8240583,
+    "fontawesome5icon": "car"
+  },
+  {
+    "no": 16,
+    "nama": "Feby Rizki Imersa",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Indramayu",
+    "latitude": -7.1070325,
+    "longitude": 110.8786486,
+    "fontawesome5icon": "child"
+  },
+  {
+    "no": 17,
+    "nama": "Ferlinda Setyawati",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kab Sleman",
+    "latitude": -7.7882809,
+    "longitude": 110.2595733,
+    "fontawesome5icon": "smile-beam"
+  },
+  {
+    "no": 18,
+    "nama": "Fisti Fadila Lorentin Arinina",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Blora",
+    "latitude": -7.2436323,
+    "longitude": 110.6562578,
+    "fontawesome5icon": "paw"
+  },
+  {
+    "no": 19,
+    "nama": "Gracia Videllisa",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Yogyakarta",
+    "latitude": -7.207083,
+    "longitude": 110.4733522,
+    "fontawesome5icon": "dove"
+  },
+  {
+    "no": 20,
+    "nama": "Habib Muhammad Raihan",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Agam",
+    "latitude": -7.6132758,
+    "longitude": 110.198984,
+    "fontawesome5icon": "user-astronaut"
+  },
+  {
+    "no": 21,
+    "nama": "Hafif Febian Wijasena",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Kab. Sleman",
+    "latitude": -7.2988011,
+    "longitude": 110.1111046,
+    "fontawesome5icon": "male"
+  },
+  {
+    "no": 22,
+    "nama": "Haris Dwi Cahyo",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Yogyakarta",
+    "latitude": -7.0451514,
+    "longitude": 110.787554,
+    "fontawesome5icon": "male"
+  },
+  {
+    "no": 23,
+    "nama": "Herdiansyah Herdiansyah",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Ciamis",
+    "latitude": -7.5578955,
+    "longitude": 110.2881294,
+    "fontawesome5icon": "user-secret"
+  },
+  {
+    "no": 24,
+    "nama": "Ihqdatul Qomaria Firdaus",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Sidoarjo",
+    "latitude": -7.4541549,
+    "longitude": 110.0552829,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 25,
+    "nama": "Istiqomatun Nisa",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Cilacap",
+    "latitude": -7.254816,
+    "longitude": 110.7914707,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 26,
+    "nama": "Iswanti Rahayu Ningtiyas",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Yogyakarta",
+    "latitude": -7.9686333,
+    "longitude": 110.8257609,
+    "fontawesome5icon": "paw"
+  },
+  {
+    "no": 27,
+    "nama": "Lenni Nabillah",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kota Tegal",
+    "latitude": -7.0125534,
+    "longitude": 110.3639903,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 28,
+    "nama": "Muhammad Al Fitroh",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Kota Batam",
+    "latitude": -7.4659639,
+    "longitude": 110.0436115,
+    "fontawesome5icon": "horse"
+  },
+  {
+    "no": 29,
+    "nama": "Muhammad Rifai",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Kota Tegal",
+    "latitude": -7.4994421,
+    "longitude": 110.5653028,
+    "fontawesome5icon": "male"
+  },
+  {
+    "no": 30,
+    "nama": "Naufal Haris Pradana",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Tasikmalaya",
+    "latitude": -7.1973355,
+    "longitude": 110.3625664,
+    "fontawesome5icon": "male"
+  },
+  {
+    "no": 31,
+    "nama": "Nisa Ardiyanti",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Bantul",
+    "latitude": -7.7222966,
+    "longitude": 110.2368332,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 32,
+    "nama": "Novi Anjani",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kota Yogyakarta",
+    "latitude": -7.782661932,
+    "longitude": 110.339772,
+    "fontawesome5icon": "smile-wink"
+  },
+  {
+    "no": 33,
+    "nama": "Nur Anisa Nadhiraa",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kediri",
+    "latitude": -7.0205713,
+    "longitude": 110.5456859,
+    "fontawesome5icon": "tree"
+  },
+  {
+    "no": 34,
+    "nama": "Pramitha Dewi",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kebumen",
+    "latitude": -7.9143468,
+    "longitude": 110.6642531,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 35,
+    "nama": "Ramji Renanda Sitorus",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Padangsidimpuan",
+    "latitude": -7.3078668,
+    "longitude": 110.8677998,
+    "fontawesome5icon": "horse-head"
+  },
+  {
+    "no": 36,
+    "nama": "Riska Della",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Pati",
+    "latitude": -7.2146428,
+    "longitude": 110.9729579,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 37,
+    "nama": "Rizal Wahyudi",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Kebumen",
+    "latitude": -7.6039035,
+    "longitude": 110.6367411,
+    "fontawesome5icon": "reddit-alien"
+  },
+  {
+    "no": 38,
+    "nama": "Ryan Putro Kusumo",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Surakarta",
+    "latitude": -7.327734,
+    "longitude": 110.0393029,
+    "fontawesome5icon": "user-graduate"
+  },
+  {
+    "no": 39,
+    "nama": "Ryo Dwi Permana A",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Cianjur",
+    "latitude": -7.7800808,
+    "longitude": 110.0997455,
+    "fontawesome5icon": "dharmachakra"
+  },
+  {
+    "no": 40,
+    "nama": "Sagita Irsyad Ramadhan",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Bojonegoro",
+    "latitude": -7.3899508,
+    "longitude": 110.8300976,
+    "fontawesome5icon": "male"
+  },
+  {
+    "no": 41,
+    "nama": "Sherlina Artanti",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Sidoarjo",
+    "latitude": -7.3206035,
+    "longitude": 110.1405238,
+    "fontawesome5icon": "ghost"
+  },
+  {
+    "no": 42,
+    "nama": "Tengku Feby Mutiansah",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Depok",
+    "latitude": -7.5714689,
+    "longitude": 110.3882039,
+    "fontawesome5icon": "user-graduate"
+  },
+  {
+    "no": 43,
+    "nama": "Valarie Gracia Putri",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Bekasi",
+    "latitude": -7.8973948,
+    "longitude": 110.5165149,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 44,
+    "nama": "Valiant Alfiansyah",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Bekasi",
+    "latitude": -7.8258106,
+    "longitude": 110.9217183,
+    "fontawesome5icon": "spider"
+  },
+  {
+    "no": 45,
+    "nama": "Vaza Zuvarul Lutfhan",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Pati",
+    "latitude": -7.5918367,
+    "longitude": 110.3849101,
+    "fontawesome5icon": "plane-departure"
+  },
+  {
+    "no": 46,
+    "nama": "Wa Ode Nur Esha Amalia",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Kendari",
+    "latitude": -4.010166417,
+    "longitude": 122.5491524,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 47,
+    "nama": "Yenny Asima",
+    "jeniskelamin": "Perempuan",
+    "kotaasal": "Berastagi",
+    "latitude": -7.4820958,
+    "longitude": 110.7843198,
+    "fontawesome5icon": "female"
+  },
+  {
+    "no": 48,
+    "nama": "Yusuf Kamil",
+    "jeniskelamin": "Laki-laki",
+    "kotaasal": "Banda Aceh",
+    "latitude": -7.3348399,
+    "longitude": 110.2531691,
+    "fontawesome5icon": "male"
+  }
+]
