@@ -12,7 +12,7 @@ function HomeScreen() {
     <View style={{width: '100%', height: '100%'}}>
       <WebView
         source={{
-          uri: 'https://ryoandrio.github.io/pgpbl-acara10/point.html',
+          uri: 'https://anshori.github.io/leafletjs-geojson-jquery/point.html',
         }}
       />
     </View>
@@ -24,7 +24,7 @@ function InfoScreen() {
     <View style={{width: '100%', height: '100%'}}>
       <WebView
         source={{
-          uri: 'https://ryoandrio.github.io/pgpbl-acara10/line.html',
+          uri: 'https://anshori.github.io/leafletjs-geojson-jquery/line.html',
         }}
       />
     </View>
@@ -36,7 +36,7 @@ function SettingsScreen() {
     <View style={{width: '100%', height: '100%'}}>
       <WebView
         source={{
-          uri: 'https://ryoandrio.github.io/pgpbl-acara10/polygon.html',
+          uri: 'https://anshori.github.io/leafletjs-geojson-jquery/polygon.html',
         }}
       />
     </View>
